@@ -1,4 +1,4 @@
 # materialUpeu_library
-una simple libreria xd
+Libreria
 
-https://jitpack.io/#paulneo/materialUpeu_library/0.1.0
+https://jitpack.io/#EverSaul1/materialEstilosAndroid/0.1.0
